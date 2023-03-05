@@ -1,3 +1,3 @@
 # DDPG
 
-![alt text](https://github.com/Aktharnvdv/VAE/blob/main/VAE.PNG?raw=true)
+![alt text](https://github.com/Aktharnvdv/DDPG/blob/main/ddpg.PNG)
